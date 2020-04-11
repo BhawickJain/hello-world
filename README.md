@@ -1,5 +1,4 @@
 # hello-world
 
-first git hub repo :p
+For anybody who's made it, hi :D
 
-A wave to anybody who's made it :wave:
