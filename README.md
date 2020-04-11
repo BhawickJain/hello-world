@@ -1,4 +1,3 @@
 # hello-world
 first git hub repo :p
-
-I have committed this to the README.md file.
+A wave to anybody who's made it :wave:
