@@ -8,4 +8,4 @@ This is me editing the README.md file remotely. Currently studying the ssh optio
 
 After using the `git push -u origin git-remotes`, git created a new branch called `git-remotes` on my GitHub hello-world repo. It did not need any authentication which is interesting. At the time of writing there is no ssh setup between my machine and GitHub.
 
-`[?]` I guess then I have a question for my self, when do you use SSH :question:  
+`[?]` I guess then I have a question for my self, when do you use SSH  
